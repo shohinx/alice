@@ -1,6 +1,7 @@
 # Knowledge Base
 
 This repository is a persistent knowledge base built around the LLM Wiki pattern.
+It is based on Karpathy's idea here: https://x.com/karpathy/status/2040470801506541998
 
 ## Layout
 
@@ -10,16 +11,19 @@ This repository is a persistent knowledge base built around the LLM Wiki pattern
 
 ## How To Use It
 
-1. Add new source material to `raw/`.
+1. Add new source material to raw/.
 2. Ask the AI to read the new material and update the wiki.
-3. Review the updated pages in `wiki/` and follow the links that matter.
+
+```text
+Check the file `llm-wiki.md`, read it carefully, and create a knowledge base according to the instructions in that file.
+```
+
+3. Review the updated pages in wiki/ and follow the links that matter.
 4. Keep durable answers, summaries, and comparisons in the wiki instead of leaving them only in chat.
 
 ## Ask The AI
 
 After you add or edit new information, ask the AI to ingest it into the knowledge base so the index, log, and related wiki pages stay current.
-
-"Check the file llm-wiki.md, read it carefully and create me as knowledge base according to the file"
 
 ## Start Here
 
