@@ -19,7 +19,7 @@ This repository is a persistent knowledge base built around the LLM Wiki pattern
 
 After you add or edit new information, ask the AI to ingest it into the knowledge base so the index, log, and related wiki pages stay current.
 
-"Check the file llm-wiki.md, read it carefully and create me a s knowledge base according to the file"
+"Check the file llm-wiki.md, read it carefully and create me as knowledge base according to the file"
 
 ## Start Here
 
