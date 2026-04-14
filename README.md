@@ -20,6 +20,7 @@ Check the file `llm-wiki.md`, read it carefully, and create a knowledge base acc
 
 3. Review the updated pages in wiki/ and follow the links that matter.
 4. Keep durable answers, summaries, and comparisons in the wiki instead of leaving them only in chat.
+5. Import project as vault in Obsidian
 
 ## Ask The AI
 
