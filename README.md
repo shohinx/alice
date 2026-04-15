@@ -15,7 +15,7 @@ It is based on Karpathy's idea here: https://x.com/karpathy/status/2040470801506
 2. Ask the AI to read the new material and update the wiki.
 
 ```text
-Check the file `llm-wiki.md`, read it carefully, and create a knowledge base according to the instructions in that file.
+Read llm-wiki.md carefully and build a knowledge base following the instructions inside it.
 ```
 
 3. Review the updated pages in wiki/ and follow the links that matter.
